@@ -5,5 +5,9 @@ Makes an HTTP request to "GET" the HTML page for that URL and then prints the HT
 ## Running
 
 make
+
+
 java SocketGet http://www.williammortl.com/index.html
+
+
 java SocketGet http://www.limerickfc.ie/news-news
